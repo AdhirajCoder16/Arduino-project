@@ -1,9 +1,4 @@
-/***********************************************************
-File name: 10_IRRemoterController.ino
-Description: When you click the button on the remote control,
-             you can see the serial montiol data.
-Website: www.quadstore.in
-***********************************************************/
+
 #include <IRremote.h>
 
 int RECV_PIN = 11;//The definition of the infrared receiver pin 11
