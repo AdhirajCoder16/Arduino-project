@@ -1,13 +1,4 @@
-/***********************************************************
-File name: 09_servo.ino
-Description:   The servo motor are rotated to 15 degrees, 30 
-               degrees, 45 degrees, 60 degrees, 75 degrees, 
-               90 degrees, 75 degrees, 60 degrees, 45 degrees,
-               30 degrees, 15 degrees, 0 degrees, and then from 
-               0 degrees to 180 degrees and from 180 degrees to
-               0 degrees.
-Website: www.quadstore.in
-***********************************************************/
+
 
 #include <Servo.h>
 Servo myservo;//create servo object to control a servo
