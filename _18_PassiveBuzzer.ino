@@ -1,7 +1,4 @@
-/*********************************************************** 
-File name:   _pBuzzer.ino 
-Description:  Passive Buzzer. 
-Website: www.quadstore.in ***********************************************************/ 
+
 
 int buzzer = 9; // set the buzzer control digital IO pin 
  void setup()
