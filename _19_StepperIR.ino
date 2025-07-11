@@ -1,6 +1,4 @@
-/*********************************************************** 
-File name:   _19_StepperIR.ino 
-Website: www.quadstore.in ***********************************************************/ 
+
 
 #include "Stepper.h"
 #include "IRremote.h"
