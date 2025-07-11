@@ -1,9 +1,4 @@
-/***********************************************************
-File name:   21_button_Processing.ino
-Description: Arduino and processing interactive
-             Button controls Snake Game
-Website: www.quadstore.in
-***********************************************************/
+
 int btnLPin = 2;//Define digital 2 pin connect the left button
 int btnRPin = 3;//Define digital 3 pin connect the left button
 
