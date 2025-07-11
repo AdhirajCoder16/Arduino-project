@@ -1,7 +1,5 @@
-/***********************************************************
-File name: 14_photoresistance.ino
-Website: www.quadstore.in
-***********************************************************/
+
+
 
 
 int convertValue; // Define a variable to save the ADC value
