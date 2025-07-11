@@ -1,9 +1,4 @@
-/***********************************************************
-File name: 08_aSimpleCounter.ino
-Description:when you are pressing two buttons, four-digit
-            segment display values will change.
-Website: www.quadstore.in
-***********************************************************/
+
 int btn1pin=0;             //Set the digital 0 to button interface 
 int btn2pin=13;            //Set the digital 13 to button interface 
 int a = 1;
