@@ -1,7 +1,4 @@
-/*********************************************************** 
-File name:   15_tempSensor.ino 
-Website: www.quadstore.in 
-***********************************************************/ 
+
 
 void setup() {
   Serial.begin(9600);                 // Initialize the serial port, set the baud rate into 9600
