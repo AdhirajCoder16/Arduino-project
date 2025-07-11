@@ -1,7 +1,5 @@
-/*********************************************************** 
-File name:   _17_aBuzzer.ino 
-Description:  Active Buzzer. 
-Website: www.quadstore.in ***********************************************************/ 
+
+
 
 int buzzerPin = 9; 
  
