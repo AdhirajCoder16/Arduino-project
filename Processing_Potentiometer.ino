@@ -1,9 +1,4 @@
-/******************************************************************************
-File name:   Processing_Potentiometer.pde
-Description: Arduino and processing interactive
-             The size of the potentiometer voltage control red circle on the PC 
-Website: www.quadstore.in
-********************************************************************************/ 
+
 import processing.serial.*; 
   
 Serial serial;   
