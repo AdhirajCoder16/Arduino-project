@@ -1,9 +1,4 @@
-/***********************************************************
-File name: 11_ultrasonicDistanceSensor.ino
-Description: When you move the ultrasonic distance sensor,
-             you will find value chaning in the serial monitor.
-Website: www.quadstore.in
-***********************************************************/
+
 
 #define trigPin 12 // define TrigPin
 #define echoPin 11 // define EchoPin.
