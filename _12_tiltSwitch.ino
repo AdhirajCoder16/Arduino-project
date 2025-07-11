@@ -1,8 +1,6 @@
-/***********************************************************
-File name: 12_tiltSwitch.ino
-Description: Tilt switches to control the LED light on or off
-Website: www.quadstore.in
-***********************************************************/
+
+
+
 
 int ledpin=11;       //definition digital 11 pins as pin to control the LED
 int tiltSwitchpin=7; //Set the digital 7 to tilt switch interface 
