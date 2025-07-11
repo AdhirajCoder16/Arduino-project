@@ -1,12 +1,4 @@
-/***********************************************************
-File name:   Snake_Game_Processing_Button.pde
-Description: Arduino and processing interactive
-             Button controls Snake Game
-Website: www.adeept.com
-E-mail: support@adeept.com
-Author: Tom
-Date: 2015/05/02 
-***********************************************************/
+
 import processing.serial.*; 
 import processing.sound.*; 
 SoundFile file;
