@@ -1,9 +1,4 @@
-/***********************************************************
-File name:   20_Potentiometer_Processing.ino
-Description: Arduino and processing interactive
-             The size of the potentiometer voltage control red circle on the PC 
-Website: www.quadstore.in
-***********************************************************/
+
 int potPin = 0; // define UNO board A0 pin connect the potentiometer
   
 void setup() { 
