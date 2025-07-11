@@ -1,7 +1,4 @@
-/*********************************************************** 
-File name:   16_flamesensor.ino 
-Description:  Flame Sensor. 
-Website: www.quadstore.in ***********************************************************/ 
+
 
 const int flameSens = A0;//set flame sensor to pin A0 
 const int speaker = 8;//set speaker to pin 8
