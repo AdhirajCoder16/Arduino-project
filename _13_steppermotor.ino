@@ -1,10 +1,5 @@
-/***********************************************************
-File name: 13_steppermotor.ino
-Description: You can observe the stepper motor is fast and 
-             forward in a circle, next the stepper motor is 
-             slow and reverse in a circle.
-Website: www.quadstore.in
-***********************************************************/
+
+
 int Pin0 = 8;//definition digital 8 pins as pin to control the IN1 (ULN24L01)
 int Pin1 = 9;//definition digital 9 pins as pin to control the IN2 (ULN24L01)
 int Pin2 = 10;//definition digital 10 pins as pin to control the IN3 (ULN24L01)
