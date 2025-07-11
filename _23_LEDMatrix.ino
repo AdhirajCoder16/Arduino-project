@@ -1,8 +1,4 @@
-  /*
 
-  LED Matrix
-  www.quadstore.in
-*/
 
 int latchPin = 12;          // Pin connected to ST_CP of 74HC595（Pin12）
 int clockPin = 13;          // Pin connected to SH_CP of 74HC595（Pin11）
